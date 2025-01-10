@@ -1,4 +1,4 @@
-site para consultar tags: w3 school
+https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb
 
 <!DOCTYPE html>
 <html lang="en">
