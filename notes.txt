@@ -1,0 +1,56 @@
+site para consultar tags: w3 school
+
+<!DOCTYPE html>
+<html lang="en">
+<head> <!-- A tag Head são informações que serão carregadas antes de apresentar ao usuário. -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first project</title>
+</head>
+
+<!-- A tag Body é todo o conteúdo que aparece na página para o usuário. -->
+
+<body> 
+    My first text.
+
+    <i>My first text. </i><br> <!-- A tag <i></i> deixa o texto itálico. -->
+
+    <u></u> <!-- A tag <u></u> deixa o texto sublinhado. -->
+
+    <strong>My first text.</strong><br> <!-- A tag <strong></strong> deixa o texto negrito. -->
+
+    <strong><i>My first text.</i></strong><br> <!-- A tag <strong></strong> + a tag <i></i> deixa o texto negrito e itálico. -->
+
+    <strong>My first <i>text.</i></strong><br> <!-- Podemos deixar apenas uma palavra do texto ou uma parte do texto negrito ou itálico. -->
+
+    <input type="text"><br> <!-- A tag <input> cria um campo para digitar algo. Obs. Essa tag já possui uma barra de fechamento automático no final (/)-->
+    <input type="number"><br> <!-- -->
+
+    <input type="color"><br> <!-- -->
+
+    <img width="" src="" alt=""> <!-- A tag <input> cria um campo para digitar algo. Obs. Essa tag já possui uma barra de fechamento automático no final (/)-->
+
+    <!-- Os atributos de tags são para acrescentar informações dentro dessas tags. -->
+
+    <!-- Exemplo: O id serve para identifcar qual tag será alterada. -->
+
+    <!-- Exemplo: O style serve para dar cor ao conteúdo. Esse atributo é específico do CSS. -->
+
+    <!-- Exemplo: O class serve para padronizar várias partes iguais de uma página. -->
+
+    <strong id="titulo">My first text.</strong><br> <!-- A tag <strong></strong> deixa o texto negrito. -->
+
+    <strong style="color: green;">My first text.</strong><br> <!-- O atributo style colore a página. -->
+
+    <strong class="padroniza-partes-da-página">My first text.</strong><br> <!-- O atributo class pradroniza partes da página. -->
+
+    <h1>Minha página</h1>
+
+    <h2>Meu futuro em um parágrafo.</h2>
+
+    <p>Essa página é uma forma de praticar a programação front-end, e usar para outros fins, como criar páginas para o meu uso próprio, sendo práticar estudos que eu gosto, como espanhol, francês, inglês. Isso pode ser um grsnde atributo no aprendizado para ser um desenvolvedor full-stack. </p>
+
+</body>
+<!-- A tag Body é todo o conteúdo que aparece na página para o usuário. -->
+
+</html>
